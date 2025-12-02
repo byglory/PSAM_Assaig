@@ -22,6 +22,7 @@ Necessito definir les següents categories d'informació mèdica:
 - Mesures corporal
 - Altres dades
 Com ho faries?
+com ja son moltes ho faria amb un recyclerview
 
 PREGUNTA 04
 A partir d'un array de parells, genera la pantalla inicial de la meva salut
